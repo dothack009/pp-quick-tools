@@ -10,9 +10,9 @@ Mute/Unmute, clip Enable/Disable, Normalize Peaks, and one-click Undo/Redo for a
    the `.zxp` and the installer for your system.
 2. Put both files in the same folder.
 3. Run the installer:
-   - **Mac:** double-click `Install PP Quick Tools (Mac).command`. If macOS blocks it,
+   - **Mac:** double-click `Install-PPQuickTools-Mac.command`. If macOS blocks it,
      right-click it and choose **Open**.
-   - **Windows:** double-click `Install PP Quick Tools (Windows).bat`.
+   - **Windows:** double-click `Install-PPQuickTools-Windows.bat`.
 
    Or install the `.zxp` with [ZXP Installer](https://aescripts.com/learn/zxp-installer/).
 4. Restart Premiere Pro, then open **Window > Extensions > PP Quick Tools**.
