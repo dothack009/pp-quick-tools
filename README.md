@@ -6,16 +6,11 @@ Mute/Unmute, clip Enable/Disable, Normalize Peaks, and one-click Undo/Redo for a
 
 ## Install
 
-1. Download the files from the [latest release](https://github.com/dothack009/pp-quick-tools/releases/latest):
-   the `.zxp` and the installer for your system.
-2. Put both files in the same folder.
-3. Run the installer:
-   - **Mac:** double-click `Install-PPQuickTools-Mac.command`. If macOS blocks it,
-     right-click it and choose **Open**.
-   - **Windows:** double-click `Install-PPQuickTools-Windows.bat`.
-
-   Or install the `.zxp` with [ZXP Installer](https://aescripts.com/learn/zxp-installer/).
-4. Restart Premiere Pro, then open **Window > Extensions > PP Quick Tools**.
+1. Download `PPQuickTools-<version>.zxp` from the
+   [latest release](https://github.com/dothack009/pp-quick-tools/releases/latest).
+2. Install it with [ZXP Installer](https://aescripts.com/learn/zxp-installer/) (free, Mac and
+   Windows): open the app and drag the `.zxp` onto it.
+3. Restart Premiere Pro, then open **Window > Extensions > PP Quick Tools**.
 
 Requirements: Premiere Pro 2022 or later, with Creative Cloud installed. **Normalize Peaks**
 also needs [ffmpeg](https://ffmpeg.org/download.html): on Mac, `brew install ffmpeg`; on Windows,
